@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>19900303</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.28E2EE92-402D-4D8A-A3A4-EB6236852413</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>28E2EE92-402D-4D8A-A3A4-EB6236852413</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.31.104</string>
+			<key>ProxyServerPort</key>
+			<integer>10809</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>kong dianxin plus</string>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>全局 HTTP 代理</string>
+			<key>PayloadDisplayName</key>
+			<string>全局 HTTP 代理</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.F9513216-A45F-4273-814A-96101E485390</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>F9513216-A45F-4273-814A-96101E485390</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<false/>
+			<key>ProxyServer</key>
+			<string>192.168.31.104</string>
+			<key>ProxyServerPort</key>
+			<integer>10809</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>2http代理文件</string>
+	<key>PayloadIdentifier</key>
+	<string>KdeMacBook-Air.17DCE53E-6640-42B9-9A17-18EA7B460143</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>73EBDD7C-4410-4CE7-8C34-4C97FE26131C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
